@@ -21,8 +21,9 @@ If you have Node installed, you have NPM, if not install node:
 Node
 ## Installing
 Run:
-
+```js
 npm install
+```
 Once that finishes:
 
 npm start
