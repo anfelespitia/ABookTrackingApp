@@ -37,7 +37,7 @@ To download the project follow the instructions bellow:
 
 ```
 git clone https://github.com/anfelespitia/ABookTrackingApp
-cd myreads
+cd ABookTrackingApp
 ```
 
 Then install dependencies and run:
