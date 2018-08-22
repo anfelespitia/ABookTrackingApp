@@ -32,7 +32,7 @@ Which will open a new browser window pointed to localhost:3000 where you can sta
 
 ## Built With
 * [npm](https://www.npmjs.com/)
-* Node
-* Atom
-* Git
-* Github
+* [Node](https://nodejs.org/en/)
+* [Atom](https://atom.io/)
+* [Git](https://git-scm.com/)
+* [Github](https://github.com/)
