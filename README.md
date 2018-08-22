@@ -2,7 +2,7 @@
 This is the repository that contains the code for The MyReads app. This app is built as the out of class project for Udacity's Nanodegree Front-End Web Developer. 
 
 ## Table of Contents
-[`Getting Started`](#Getting Started)
+[`Getting Started`](#GettingStarted)
 
 [`Prerequisites`](#Prerequisites)
 
