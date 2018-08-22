@@ -10,10 +10,6 @@ This is the repository that contains the code for The MyReads app. This app is b
 
 [`Built With`](#Built With)
 
-[`Authors`](#Authors)
-
-[`Acknowledgments`](#Acknowledgments)
-
 [`Getting Started`](#Getting Started)
 
 # Getting Started
