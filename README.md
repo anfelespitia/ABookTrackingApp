@@ -1,6 +1,17 @@
 # My Reads project
 This is the repository that contains the code for The MyReads app. This app is built as the out of class project for Udacity's Nanodegree Front-End Web Developer. 
 
+## Project description
+
+The aim of this application is to allow the user to keep track of their own personal library. It includes a list of the books that are already in their possession or those in their wishlist. Each of these books will be grouped in three _shelves_ depending on their status:
+
+* Currently reading
+* Want to read
+* Read
+
+The user will be able to change a book status anytime, as well as add new titles to their collection or remove items from their library.
+
+
 ## Table of Contents
 
 * [`Getting Started`](#GettingStarted)
