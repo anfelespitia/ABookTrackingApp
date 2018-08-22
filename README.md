@@ -25,13 +25,14 @@ Run:
 npm install
 ```
 Once that finishes:
-
+```js
 npm start
+```
 Which will open a new browser window pointed to localhost:3000 where you can start interacting with the app.
 
 ## Built With
-npm
-Node
-Atom
-Git
-Github
+* npm
+* Node
+* Atom
+* Git
+* Github
