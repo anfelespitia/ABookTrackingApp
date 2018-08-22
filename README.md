@@ -31,7 +31,7 @@ npm start
 Which will open a new browser window pointed to localhost:3000 where you can start interacting with the app.
 
 ## Built With
-* npm
+* [npm](https://www.npmjs.com/)
 * Node
 * Atom
 * Git
