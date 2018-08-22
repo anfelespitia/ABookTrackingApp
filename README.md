@@ -3,7 +3,9 @@ This is the repository that contains the code for The MyReads app. This app is b
 
 ## Table of Contents
 [`Getting Started`] (#Getting Started)
+
 [`Prerequisites`] (#Prerequisites)
+
 [`Installing`] (#Installing)
 [`Built With`] (#Built With)
 [`Authors`] (#Authors)
