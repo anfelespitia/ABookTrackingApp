@@ -22,13 +22,18 @@ If you have Node installed, you have NPM, if not install node:
 
 * [Node](https://nodejs.org/en/)
 ## Installing
-Run:
-```js
-npm install
+To download the project follow the instructions bellow:
+
 ```
-Once that finishes:
-```js
-npm start
+git clone https://github.com/anfelespitia/ABookTrackingApp
+cd myreads
+```
+
+Then install dependencies and run:
+
+```
+npm install
+npm run start
 ```
 Which will open a new browser window pointed to [localhost:3000](http://localhost:3000/) where you can start interacting with the app.
 
